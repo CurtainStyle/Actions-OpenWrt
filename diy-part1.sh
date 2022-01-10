@@ -16,5 +16,5 @@
 #echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #git clone https://github.com/fw876/helloworld package/helloworld
-git clone https://github.com/kenzok8/openwrt-packages package/kenzo
-git clone https://github.com/kenzok8/small package/small
+#git clone https://github.com/kenzok8/openwrt-packages package/kenzo
+#git clone https://github.com/kenzok8/small package/small
